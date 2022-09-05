@@ -1,0 +1,8 @@
+program {
+string s = "1", f = "";
+int  k = 100;
+k = k/4;
+write(k);
+}
+
+

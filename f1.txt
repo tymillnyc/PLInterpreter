@@ -1,0 +1,17 @@
+program {
+int  k = 100;
+string s = "122", f;
+goto z;
+d:
+s = s+(f = s);
+write(s);
+z:
+if (k > 98) {
+k = k-1;
+goto d;
+}
+write(k);
+
+}
+
+
